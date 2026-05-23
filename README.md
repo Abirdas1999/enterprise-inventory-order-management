@@ -6,6 +6,11 @@ This project simulates a real-world business management platform with secure aut
 
 ---
 
+
+# Developed By Abir Das
+
+---
+
 ## 🚀 Features
 
 ### 🔐 Authentication & Authorization
